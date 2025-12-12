@@ -34,25 +34,13 @@ I also mentor clients and students on integrating cloud-native tools, automating
 ## 🔧 Tech Stack Highlights
 
 - **Languages**: Java, Python, JavaScript, SQL, HTML/CSS, Bash  
-- **Frameworks**: Spring Boot, Django, Node.js, Flask  
-- **Frontend**: Bootstrap, JavaFX, React (basics), Thymeleaf  
+- **Frameworks**: Spring Boot, Django, Node.js, Flask,   
+- **Frontend**: Bootstrap, JavaFX, React, Thymeleaf, JQuery  
 - **Databases**: MySQL, PostgreSQL, SQLite, MongoDB  
 - **Data Tools**: Tableau, Excel, WEKA, Pandas, Matplotlib  
 - **Security**: Kali Linux, Burp Suite, Metasploit, Nmap, Hydra  
 - **DevOps**: Git, Docker, GitHub Actions, Heroku, Netlify  
-- **Tools**: VS Code, IntelliJ, Jupyter, Figma, Android Studio  
-
----
-
-## 🔍 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📈 **Volatility Modeling** | GARCH-based risk analysis on S&P 500, DAX, Nvidia (Python + LaTeX) | `Python`, `GARCH`, `LaTeX` |
-| 🎓 **Academic CMS** | Course Management System with login, CRUD, DB integration | `Java`, `Spring Boot`, `JavaFX`, `MySQL` |
-| 📽️ **Rental Platform** | Authenticated Django app with movie filter & API backend | `Django`, `HTML/CSS`, `SQLite`, `JS` |
-| 📊 **Attrition Dashboards** | Visualizations for HR & M&A decision-making | `Tableau`, `Excel`, `CSV` |
-| 🛡️ **Pentest Simulation** | Full-cycle penetration test with report and mitigation | `Kali Linux`, `Nmap`, `Burp Suite`, `Metasploit` |
+- **Tools**: VS Code, IntelliJ, Jupyter, Figma, Android Studio, Colab  
 
 ---
 
