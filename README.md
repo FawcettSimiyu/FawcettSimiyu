@@ -49,7 +49,6 @@ I also mentor clients and students on integrating cloud-native tools, automating
 - 📧 Email: [fawcetteugene@gmail.com](mailto:fawcetteugene@gmail.com)  
 - 📱 WhatsApp: [+254794689731](https://wa.me/254794689731)  
 - 💼 LinkedIn: [linkedin.com/in/fawcett-simiyu](https://linkedin.com/in/fawcett-simiyu)  
-- 🌍 Portfolio: _Coming Soon_ (Google Sites + Tableau Public)
 
 ---
 
